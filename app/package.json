@@ -1,0 +1,12 @@
+{
+    "name": "full-cycle-docker-node",
+    "version": "0.0.1",
+    "description": "A Node.js app with Express",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
